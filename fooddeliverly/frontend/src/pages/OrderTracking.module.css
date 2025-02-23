@@ -1,0 +1,25 @@
+
+.orderDetails {
+    background-color: white;
+    border-radius: 8px;
+    padding: 20px;
+    margin-top: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .orderItem {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+  }
+  
+  .total {
+    font-weight: bold;
+    margin-top: 20px;
+  }
+  
+  .status {
+    font-size: 1.2em;
+    font-weight: bold;
+    color: var(--secondary-color);
+  }
